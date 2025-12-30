@@ -1,0 +1,44 @@
+{
+  "name": "anqur.muzi.quest",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Music quest of @anqur",
+  "keywords": [
+    "music"
+  ],
+  "homepage": "https://github.com/muziquest/muziquest.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/muziquest/muziquest.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muziquest/muziquest.github.io.git"
+  },
+  "license": "MIT",
+  "author": "Anqur Lu",
+  "type": "module",
+  "scripts": {
+    "fmt": "prettier -w . --ignore-path .gitignore",
+    "lint": "eslint",
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build"
+  },
+  "devDependencies": {
+    "daisyui": "^5.5.14",
+    "prettier": "^3.7.4",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.1",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "next": "16.1.1",
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
+  }
+}
