@@ -1,13 +1,16 @@
 "use client";
 
+import { useEffect, useState } from "react";
 import { SunIcon, MoonIcon } from "@heroicons/react/24/outline";
-import { useTextStore } from "@/utils/store";
 import Dynamic from "@/components/Dynamic";
 
 type Theme = "light" | "dark";
 
 function Toggle() {
-  const [theme, setTheme] = useTextStore<Theme>("theme", "light");
+  const [theme, setTheme] = useState(
+    () => (localStorage.getItem("theme") ?? "light") as Theme,
+  );
+  useEffect(() => localStorage.setItem("theme", theme), [theme]);
 
   return (
     <label className="btn btn-ghost swap swap-rotate">

@@ -10,7 +10,7 @@ export default function Drawer({
       <input id="drawer-main" type="checkbox" className="drawer-toggle" />
       <div className="drawer-content">
         <Navbar />
-        <main className="min-h-full p-5 lg:px-100">{children}</main>
+        <main className="min-h-full p-5 lg:px-50">{children}</main>
       </div>
       <div className="drawer-side">
         <label htmlFor="drawer-main" className="drawer-overlay"></label>
