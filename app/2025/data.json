@@ -1,0 +1,183 @@
+{
+  "top5": [
+    {
+      "id": "a6f6927d-03b5-4580-881c-a12a01d8d9ce",
+      "artist": "Knats",
+      "title": "Knats",
+      "rating": 10,
+      "tags": ["Jazz"]
+    },
+    {
+      "id": "446fc616-c4db-46ce-8d4c-e4efc019b3f8",
+      "artist": "Stereolab",
+      "title": "Instant Holograms on Metal Film",
+      "rating": 9,
+      "tags": ["French", "Alt"]
+    },
+    {
+      "id": "dcd98b5c-c026-4a13-a1c3-b977df98b054",
+      "artist": "El Michels Affair",
+      "title": "24 Hr Sports",
+      "rating": 8,
+      "tags": ["Cinematic soul"]
+    },
+    {
+      "id": "beccb1af-bcdc-4408-90cd-38039e6da5b1",
+      "artist": "Racing Mount Pleasant",
+      "title": "Racing Mount Pleasant",
+      "rating": 8,
+      "tags": ["Post-Brexit post-punk", "Windmill scene"]
+    },
+    {
+      "id": "3c18308c-9072-4810-b26e-0c573e46fb07",
+      "artist": "Geese",
+      "title": "Getting Killed",
+      "rating": 8,
+      "tags": ["Post-Brexit post-punk", "Windmill scene"]
+    }
+  ],
+  "shoutouts": [
+    {
+      "id": "a86d3224-03dc-450d-8770-f5d259b9635d",
+      "artist": "Squid",
+      "title": "Cowards",
+      "rating": 6,
+      "tags": ["Post-Brexit post-punk", "Windmill scene"]
+    },
+    {
+      "id": "20a43740-0fac-4e6b-8b08-42b37b59efc9",
+      "artist": "TOPS",
+      "title": "Bury the Key",
+      "rating": 7,
+      "tags": ["Indie"]
+    },
+    {
+      "id": "3ccb9823-64c8-48b9-a498-b8553aef0ad2",
+      "artist": "bar italia",
+      "title": "Some Like It Hot",
+      "rating": 8,
+      "tags": ["Dean Blunt vibes", "Indie"]
+    },
+    {
+      "id": "5f5536cd-957a-43de-9cf6-2bc3f60544b6",
+      "artist": "Sword II",
+      "title": "Electric Hour",
+      "rating": 6,
+      "tags": ["Indie"]
+    },
+    {
+      "id": "4cfc8830-0de7-4617-b886-ce9507f7580d",
+      "artist": "Earl Sweatshirt",
+      "title": "Live Laugh Love",
+      "rating": 6,
+      "tags": ["Abstract hip-hop"]
+    },
+    {
+      "id": "97751ad2-72e1-4b96-832b-76530defaaa8",
+      "artist": "Viagra Boys",
+      "title": "viagr aboys",
+      "rating": 6,
+      "tags": ["Post-punk"]
+    },
+    {
+      "id": "fadbe3ca-c245-4d83-9841-e784efca80e6",
+      "artist": "Double Virgo",
+      "title": "Shakedown",
+      "rating": 6,
+      "tags": ["Dean Blunt vibes", "Indie"]
+    },
+    {
+      "id": "75a1c830-4495-485c-981a-d681b80adb78",
+      "artist": "mark william lewis",
+      "title": "Mark William Lewis",
+      "rating": 6,
+      "tags": ["Dean Blunt vibes", "Folk"]
+    },
+    {
+      "id": "52089578-57af-48be-8ee8-594db56a91ed",
+      "artist": "caroline",
+      "title": "caroline 2",
+      "rating": 6,
+      "tags": ["Post-rock", "Windmill scene"]
+    },
+    {
+      "id": "a88a72a7-6997-4327-a644-24c840c644f8",
+      "artist": "Model/Actriz",
+      "title": "Pirouette",
+      "rating": 6,
+      "tags": ["Post-Brexit post-punk"]
+    }
+  ],
+  "rotations": [
+    {
+      "id": "2d5973bd-e7e0-37aa-9108-31b6d92f8dff",
+      "artist": "Duster",
+      "title": "Contemporary Movement",
+      "rating": 10,
+      "tags": ["Slowcore"]
+    },
+    {
+      "id": "764a8c35-aacc-3269-8b10-5972e051815a",
+      "artist": "Duster",
+      "title": "Stratosphere",
+      "rating": 10,
+      "tags": ["Slowcore", "Space rock"]
+    },
+    {
+      "id": "d045f915-48b1-49ba-852b-7fd5c7740576",
+      "artist": "deathcrash",
+      "title": "Less",
+      "rating": 8,
+      "tags": ["Slowcore", "Mogwai vibes"]
+    },
+    {
+      "id": "91d243e2-84cc-458b-96e3-14a4052d3c2e",
+      "artist": "deathcrash",
+      "title": "Return",
+      "rating": 8,
+      "tags": ["Slowcore", "Mogwai vibes"]
+    },
+    {
+      "id": "42ee16aa-cf94-415a-997b-95d630f99ac3",
+      "artist": "Kokoroko",
+      "title": "Tuff Times Never Last",
+      "rating": 6,
+      "tags": ["Afrobeat"]
+    },
+    {
+      "id": "21869386-169d-4f43-ae44-972e49f89ed1",
+      "artist": "青葉市子",
+      "title": "アダンの風",
+      "rating": 8,
+      "tags": ["Folk"]
+    },
+    {
+      "id": "a1851b11-5c14-497a-af7a-fa04c0946c78",
+      "artist": "Alex G",
+      "title": "Trick",
+      "rating": 6,
+      "tags": ["Alt"]
+    },
+    {
+      "id": "04a0a433-80bc-3b55-91cd-322a0d644c95",
+      "artist": "Red House Painters",
+      "title": "Red House Painters",
+      "rating": 6,
+      "tags": ["Slowcore"]
+    },
+    {
+      "id": "d19a851a-8474-39c4-9d8b-42b2d75b68fe",
+      "artist": "Faraquet",
+      "title": "The View From This Tower",
+      "rating": 7,
+      "tags": ["Emo"]
+    },
+    {
+      "id": "1caefbb6-c4ac-3954-85ba-b512fc2da959",
+      "artist": "Jeff Beck",
+      "title": "Wired",
+      "rating": 10,
+      "tags": ["Jazz Rock"]
+    }
+  ]
+}
