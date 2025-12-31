@@ -18,6 +18,7 @@ export default function Modal({ selected, onClose }: Props) {
     if (selected) {
       if (!elem.open) {
         elem.showModal();
+        elem.focus();
       }
     } else {
       elem.close();
