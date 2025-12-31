@@ -42,10 +42,12 @@ export default function Modal({ selected, onClose }: Props) {
                   {selected.title}
                 </a>
               </h2>
-              <p className="flex items-center">
-                {selected.rating} / 10
+              <p>Rating:</p>
+              <div className="flex flex-start items-center text-center">
+                <span className="mr-2 text-lg">{selected.rating} / 10</span>
                 <Rating rating={selected.rating} />
-              </p>
+              </div>
+              <p>Tags:</p>
               {selected.tags.map((tag, i) => (
                 <div key={i} className="badge badge-neutral">
                   {tag}
