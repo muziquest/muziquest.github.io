@@ -12,7 +12,7 @@ const logoFont = Meow_Script({
 
 export default function Navbar() {
   return (
-    <div className="navbar sticky top-0 py-2 bg-opacity-80 bg-base-100 z-50">
+    <div className="navbar sticky top-0 py-2 bg-opacity-80 bg-base-100">
       <div className="navbar-start">
         <label htmlFor="drawer-main" className="btn btn-ghost">
           <Bars3BottomLeftIcon className="h-5 w-5" />
