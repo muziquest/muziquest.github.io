@@ -1,4 +1,5 @@
 import { useEffect, useRef } from "react";
+import Link from "next/link";
 import { ReleaseGroup } from "@/components/Card";
 import Rating from "@/components/Rating";
 
@@ -38,9 +39,9 @@ export default function Modal({ selected, onClose }: Props) {
               <h2 className="card-title">
                 {selected.artist}
                 <span className="text-neutral-content">-</span>
-                <a href={`https://listenbrainz.org/album/${selected.id}/`}>
+                <Link href={`https://listenbrainz.org/album/${selected.id}/`}>
                   {selected.title}
-                </a>
+                </Link>
               </h2>
               <div className="mb-4 flex flex-start items-center text-center">
                 <span className="mr-2 text-lg">{selected.rating} / 10</span>
